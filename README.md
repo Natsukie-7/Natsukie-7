@@ -3,12 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ola!,+Meu+nome+é+Natanael+Felipe+Xavier+Silva;Eu+tenho+19+anos;Sou+de+Presidente+Prudente-SP,+Brasil;Estou+estudando+analise+e+desenvolvimento+de+sistemas+pela+FATEC;Seja+Bem+vindo+e+aproveite+sua+visita!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="50%" height="210px" src="https://github-readme-stats.vercel.app/api?username=Natsukie-7&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Natanael Status" />
+  <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Natsukie-7&theme=react&line_height=40&hide=css"/> </a>
 </div>
 
-<div align="center">  
-  <img width="50%" height="210px" src="https://github-readme-stats.vercel.app/api?username=Natsukie-7&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Nathangithubstats" />
-</div>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Natsukie-7&theme=gotham)
 
