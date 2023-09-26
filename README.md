@@ -6,9 +6,6 @@
   <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Natsukie-7&theme=react&line_height=40&hide=css"/> </a>
 </div>
 
-
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Natsukie-7&theme=gotham)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Natsukie-7&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
